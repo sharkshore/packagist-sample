@@ -1,0 +1,17 @@
+{
+    "name": "tuze/tuze-tool",
+    "description": "tuze/tuze-tool",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tuze\\TuzeTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tuze",
+            "email": "tuz@hinadt.com"
+        }
+    ],
+    "require": {}
+}
