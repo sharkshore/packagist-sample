@@ -3,17 +3,18 @@
     "description": "tuze/tuze-tool",
     "keywords": ["tool", "tuze"],
     "license": "MIT",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Tuze\\TuzeTool\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "tuze",
             "email": "tuz@hinadt.com"
         }
     ],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tuze\\TuzeTool\\": "src/"
+        }
+    },
+
     "require": {}
 }
