@@ -15,3 +15,4 @@ packagist总结：
    1. 登录到packagist.org，点击 “Update” 按钮。
    2. 选择要更新的包，然后点击 “Update” 按钮。
    3. 等待packagist.org 完成同步。
+6. 默认已经设置了自动更新，不需要手动更新。
