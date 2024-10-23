@@ -1,6 +1,8 @@
 {
     "name": "tuze/tuze-tool",
     "description": "tuze/tuze-tool",
+    "keywords": ["tool", "tuze"],
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
